@@ -100,12 +100,12 @@ $(function(){
         $("#o2").slideUp();
     })
     // Producto 3
-    $("#od-3").mouseenter(function(){
-        $("#d3").slideDown();
+    $("#ot-3").mouseenter(function(){
+        $("#o3").slideDown();
     })
 
     $("#ot-3").mouseleave(function(){
-        $("#d3").slideUp();
+        $("#o3").slideUp();
     })
  // DIvicion 5//
     // Producto 1
